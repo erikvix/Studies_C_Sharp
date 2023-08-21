@@ -1,0 +1,5 @@
+C:\Users\Sejus\Desktop\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Users\Sejus\Desktop\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sejus\Desktop\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Users\Sejus\Desktop\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Users\Sejus\Desktop\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache

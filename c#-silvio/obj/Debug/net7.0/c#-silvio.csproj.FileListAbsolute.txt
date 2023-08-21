@@ -1,0 +1,15 @@
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\c#-silvio.csproj.AssemblyReference.cache
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\c#-silvio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\c#-silvio.AssemblyInfoInputs.cache
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\c#-silvio.AssemblyInfo.cs
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\c#-silvio.csproj.CoreCompileInputs.cache
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\bin\Debug\net7.0\c#-silvio.exe
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\bin\Debug\net7.0\c#-silvio.deps.json
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\bin\Debug\net7.0\c#-silvio.runtimeconfig.json
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\bin\Debug\net7.0\c#-silvio.dll
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\bin\Debug\net7.0\c#-silvio.pdb
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\c#-silvio.dll
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\refint\c#-silvio.dll
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\c#-silvio.pdb
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\c#-silvio.genruntimeconfig.cache
+C:\Users\Sejus\Desktop\code-projects\C#\c#-silvio\obj\Debug\net7.0\ref\c#-silvio.dll
